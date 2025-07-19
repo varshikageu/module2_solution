@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Module 2 Assignment</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <section class="region region-a"><h2>A</h2><p>Dummy text for region A.</p></section>
+    <section class="region region-b"><h2>B</h2><p>Dummy text for region B.</p></section>
+    <section class="region region-c"><h2>C</h2><p>Dummy text for region C.</p></section>
+    <section class="region region-d"><h2>D</h2><p>Dummy text for region D.</p></section>
+  </div>
+</body>
+</html>
